@@ -9,7 +9,7 @@ function Footer2() {
 			<div className="dlab-subscribe style-1 wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.2s">
 				<div className="row align-items-center">
 					<div className="col-lg-7">
-						<h2 className="title">Subscribe To Our Newsletter For Latest Update</h2>
+						<h2 className="title">Subscribe To Our Newsletter For Latest  :)</h2>
 					</div>
 					<div className="col-lg-5">
 						<form className="dzSubscribe" action="script/mailchamp.php" method="post">
